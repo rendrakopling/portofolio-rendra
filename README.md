@@ -16,5 +16,5 @@ jadwal belajar
 - Git dan GitHub
 - VS Code dan live Server
 ## Tautan
-- Website: menyusul setelah *deploy* ke Vercel
+-  Website: https://portofolio-rendra.vercel.app
 - Dibuat oleh: narendra yudho nugroho, SMKN 1 PASURUAN
