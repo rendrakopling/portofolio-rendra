@@ -50,3 +50,13 @@ if (lulus) {
 } else {
     console.log("Tetap semangat, ikuti remidial yaaa.");
 }
+// tombol ke atas
+const tombolatas = document.querySelector("#tombol-atas");
+if (tombolatas)
+  tombolatas.addEventListener("click", function () {
+ window.scrollTo({
+
+  top: 0,
+  behavior: "smooth"
+});
+});
